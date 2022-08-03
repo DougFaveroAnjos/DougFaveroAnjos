@@ -19,7 +19,7 @@
 ?>
 ```
 
-![Snake animation]
+ ![Snake animation](https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg)
 
 
  ## 
