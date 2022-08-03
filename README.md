@@ -1,14 +1,17 @@
 ![Header](./github.png)
 
+##
 <!-- Stats GitHutb -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/DougFaveroAnjos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougFaveroAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
    <img float="right" alt="doug" src='https://i.picasion.com/pic92/5b3504146f8b511f1ad38ec6f416d563.gif'>
  </div>
-  
+ 
+  ##
+ 
  <!-- sobre -->
-  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
+  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
 <?php
  $name    = "Douglas Favero dos Anjos";
