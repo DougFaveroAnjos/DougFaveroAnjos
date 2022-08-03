@@ -19,6 +19,9 @@
 ?>
 ```
 
+![Snake animation]
+
+
  ## 
 <!-- Redes Sociais -->
 
