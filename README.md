@@ -19,7 +19,7 @@
  $age     = "22"
   
  echo "Olá, sou o " . name . " moro em " . adress . " e tenho " . age . " anos";
-?>
+?> 
 ```
 
  ![Snake animation](https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg)
