@@ -5,7 +5,7 @@
 <div align="left">
   <a href="https://github.com/DougFaveroAnjos">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
-   <img float="right" alt="doug" src='https://i.picasion.com/pic92/5b3504146f8b511f1ad38ec6f416d563.gif'>
+   <img float="right" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
  </div>
  
   ##
