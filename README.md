@@ -1,7 +1,7 @@
 ![Header](./github.png)
 
 
-<table>
+<table style="border:none">
   <tr>
     <td><p>🌻 Sobre mim: </p>
         <p>Tenho 22 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p
@@ -64,12 +64,12 @@
 <!-- Redes Sociais e Contato -->
 <p align='center'>
   Redes Sociais<br/><br/>
-<a href="mailto:dougfavero1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.gg/KyDj549PUP"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.facebook.com/douglas.favero.9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/dougfavero/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.twitch.tv/dougfavero"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/douglas-favero-452689215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:dougfavero1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.gg/KyDj549PUP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.facebook.com/douglas.favero.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/dougfavero/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.twitch.tv/dougfavero" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/douglas-favero-452689215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ##  
