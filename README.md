@@ -1,24 +1,25 @@
 ![Header](./github.png)
 
-<p>🌻 Sobre mim: </p>
-<p>Tenho 22 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p
 
-<table style="width:100%">
+<table>
   <tr>
-    <td><p>🌱 Atualmente estou aprendendo Java e React.</p>
+    <td><p>🌻 Sobre mim: </p>
+        <p>Tenho 22 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p
+        <p>🌱 Atualmente estou aprendendo Java e React.</p>
         <p>🚀 Estudante da Rocketseat, Udemy e Alura </p>
-        <p>📫 Meu email: dougfavero1@gmail.com</p></td>
-    <td><img float=right alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'></td>
+        <p>📫 Meu email: dougfavero1@gmail.com</p>
+    </td>
+    <td><img style="float:right" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'></td>
   </tr>
 </table>
-
 
 📊 Metas 2022:
 <ul>
 <li>📂 Expandir meu portfólio </li>
 <li>🤝 Atuar como programador </li>
-<li>📈 Conseguir experiência na área de programação</li><br/><br/>
+<li>📈 Conseguir experiência na área de programação</li><br/>
 </ul>
+
 
 <p>⚡ Tecnologias:</p>
 <p>Estas são algumas das tecnologias e ferramentas que eu já atuo:</p>
@@ -33,14 +34,14 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 ##
+
 <!-- Stats GitHutb -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/DougFaveroAnjos">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
-   <img alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
+  <img heught="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
  </div>
-
-
+ 
   ##
  
  <!-- sobre -->
@@ -54,17 +55,13 @@
  echo "Olá, sou o " . name . " moro em " . adress . " e tenho " . age . " anos";
 
 ```
-
-
-
-
-
- ![Snake animation](https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg)
-
+<div align='center'>
+<img src="https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg">
+</div>
 
  ## 
-<!-- Redes Sociais -->
-
+ 
+<!-- Redes Sociais e Contato -->
 <p align='center'>
   Redes Sociais<br/><br/>
 <a href="mailto:dougfavero1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -74,21 +71,6 @@
 <a href="https://www.twitch.tv/dougfavero"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/douglas-favero-452689215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-
-##
-
-<!-- pc -->
-  
-<p align='center'>
-   Meu Computador:<br/><br/>
-  <img src="https://img.shields.io/badge/OS-Windows%2011-lightgrey" />
-  <img src="https://img.shields.io/badge/CPU-i5--3330-blue" />
-  <img src="https://img.shields.io/badge/RAM-16GB-blue" />
-  <img src="https://img.shields.io/badge/GPU-RX560-red" />
-</p>
-  
-
 
 ##  
 
