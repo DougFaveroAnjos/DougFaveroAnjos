@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/DougFaveroAnjos/DougFaveroAnjos/raw/main/github.png">
-</div>
+</div> <br/><br/><br/>
 
 <p>🌻 Sobre mim: </p>
         <img align="right" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
