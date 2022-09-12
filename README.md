@@ -13,9 +13,9 @@
 
 📊 Metas 2022:
 <ul>
-<li>📂 Expandir meu portfólio </li>
-<li>🤝 Atuar como programador </li>
-<li>📈 Conseguir experiência na área de programação</li><br/>
+<li>📂 Expandir meu portfólio. </li>
+<li>🤝 Atuar como programador. </li>
+<li>📈 Conseguir experiência na área de programação.</li><br/>
 </ul>
 
 
