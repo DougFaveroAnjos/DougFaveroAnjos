@@ -46,12 +46,10 @@
  <!-- sobre -->
   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
-<?php
- $name    = "Douglas Favero dos Anjos";
- $adress  = "Curitiba/PR - Brasil";
- $age     = "22"
-  
- echo "Olá, sou o " . name . " moro em " . adress . " e tenho " . age . " anos";
+
+ const name = "Douglas Favero dos Anjos";
+ const adress = "Curitiba, Paraná, Brasil";
+ const age = "22";
 
 ```
 <div align='center'>
