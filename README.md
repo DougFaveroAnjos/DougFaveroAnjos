@@ -47,9 +47,9 @@
   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
 console.log({
- myName = "Douglas Favero dos Anjos"
- myAdress = "Curitiba, Paraná, Brasil"
- myAge = "22"
+ myName: "Douglas Favero dos Anjos"
+ myAdress: "Curitiba, Paraná, Brasil"
+ myAge: "22"
 })
 ```
 <div align='center'>
