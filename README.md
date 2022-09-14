@@ -46,11 +46,11 @@
  <!-- sobre -->
   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
-
- const name = "Douglas Favero dos Anjos";
- const adress = "Curitiba, Paraná, Brasil";
- const age = "22";
-
+console.log({
+ myName = "Douglas Favero dos Anjos"
+ myAdress = "Curitiba, Paraná, Brasil"
+ myAge = "22"
+})
 ```
 <div align='center'>
 <img src="https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg">
