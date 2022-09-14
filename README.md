@@ -36,7 +36,7 @@
 <!-- Stats GitHutb -->
 <div align="center">
   <a href="https://github.com/DougFaveroAnjos">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
+  <img height="204px" src="https://github-readme-stats.vercel.app/api?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
  <a href="https://github.com/DougFaveroAnjos">
  <img heught="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougFaveroAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"></a>
  </div>
