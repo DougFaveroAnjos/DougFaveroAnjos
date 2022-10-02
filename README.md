@@ -57,7 +57,7 @@ console.log({
  
 <!-- Redes Sociais e Contato -->
 <p align='center'>
-  Redes Sociais<br/><br/>
+        Contato<br/><br/>
 <a target="_blank" href="mailto:dougfavero1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://discord.gg/KyDj549PUP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a target="_blank" href="https://www.facebook.com/douglas.favero.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
