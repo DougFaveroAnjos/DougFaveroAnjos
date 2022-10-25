@@ -13,7 +13,7 @@
 
 📊 Metas 2022:
 <ul>
-<li>📂 Expandir meu <a href="portifolio-doug.vercel.app" target="blank_">portfólio</a>. </li>
+<li>📂 Expandir meu <a href="https://portifolio-doug.vercel.app" target="blank_">portfólio</a>. </li>
 <li>🤝 Atuar como programador. </li>
 <li>📈 Conseguir experiência na área de programação.</li><br/>
 </ul>
