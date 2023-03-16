@@ -11,7 +11,7 @@
   
 
 
-📊 Metas 2022:
+📊 Metas 2023:
 <ul>
 <li>📂 Expandir meu <a href="https://portifolio-doug.vercel.app" target="blank_">portfólio</a>. </li>
 <li>🤝 Atuar como programador. </li>
