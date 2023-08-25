@@ -22,7 +22,7 @@
 <p>⚡ Tecnologias:</p>
 <p>Estas são algumas das tecnologias e ferramentas que eu já atuo:</p>
 <p align="center"> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=currentColor"> </a> 
 
 ##
 
