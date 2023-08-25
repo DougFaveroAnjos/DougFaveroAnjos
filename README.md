@@ -4,8 +4,8 @@
 
 <p>🌻 Sobre mim: </p>
         <img align="right" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
-        <p>Tenho 22 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
-        <p>🌱 Atualmente estou aprendendo Python e Flutter.</p>
+        <p>Tenho 23 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
+        <p>🌱 Atualmente estou aprendendo Python e C#</p>
         <p>🚀 Estudante de ADS na PUCPR </p>
         <p>📫 Meu email: dougfavero1@gmail.com</p>
   
