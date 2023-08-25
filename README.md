@@ -22,8 +22,8 @@
 <p>⚡ Tecnologias:</p>
 <p>Estas são algumas das tecnologias e ferramentas que eu já atuo:</p>
 <p align="center"> 
-<img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=ffffff" size=50%>
-
+<img size=50% src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=ffffff">
+<img size=50% src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
 ##
 
 <!-- Stats GitHutb -->
