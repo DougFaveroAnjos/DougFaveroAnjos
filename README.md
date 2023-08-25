@@ -40,11 +40,11 @@
  <!-- sobre -->
   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
-console.log({
+print('''
  myName: "Douglas Favero dos Anjos"
  myAdress: "Curitiba, Paraná, Brasil"
- myAge: "22"
-})
+ myAge: "23"
+''')
 ```
 <div align='center'>
 <img src="https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg">
