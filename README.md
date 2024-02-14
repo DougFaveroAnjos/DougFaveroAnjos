@@ -11,9 +11,8 @@
   
 
 
-📊 Metas 2023:
+📊 Metas 2024:
 <ul>
-<li>📂 Começar meu portfólio</a>. </li>
 <li>🤝 Atuar como desenvolvedor. </li>
 <li>📈 Conseguir experiência na área de programação.</li><br/>
 </ul>
