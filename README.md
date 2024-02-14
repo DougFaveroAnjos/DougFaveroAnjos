@@ -6,7 +6,7 @@
         <img align="right" border-radius="10px" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
         <p>Tenho 23 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor front-end.</p>
         <p>🌱 Atualmente estou aprendendo React ⚛️</p>
-        <p>🚀 Estudante de ADS na UniBrasil </p>
+        <p>🚀 Estudante de Engenharia de Software </p>
         <p>📫 Meu email: dougfavero1@gmail.com</p>
   
 
