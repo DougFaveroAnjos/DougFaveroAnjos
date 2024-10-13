@@ -4,8 +4,8 @@
 
 <p>🌻 Sobre mim: </p>
         <img align="right" border-radius="10px" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
-        <p>Tenho 23 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor front-end.</p>
-        <p>🌱 Atualmente estou aprendendo React ⚛️</p>
+        <p>Tenho 24 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
+        <p>🌱 Atualmente estou trabalhando como desenvolvedor .Net</p>
         <p>🚀 Estudante de Engenharia de Software </p>
         <p>📫 Meu email: dougfavero1@gmail.com</p>
   
@@ -13,8 +13,8 @@
 
 📊 Metas 2024:
 <ul>
-<li>🤝 Atuar como desenvolvedor. </li>
-<li>📈 Conseguir experiência na área de programação.</li><br/>
+<li>🤝 Atuar como desenvolvedor. - ✅ </li>
+<li>📈 Conseguir experiência na área de programação. - ✅</li><br/>
 </ul>
 
 
@@ -42,7 +42,7 @@
   ##
  
  <!-- sobre -->
-  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
+ <!-- <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 ```ruby
 sobreMim: {
         [
@@ -52,7 +52,7 @@ sobreMim: {
         ]
     }
 
-```
+```-->
 <div align='center'>
 <img src="https://github.com/DougFaveroAnjos/DougFaveroAnjos/blob/output/github-contribution-grid-snake.svg">
 </div>
