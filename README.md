@@ -4,17 +4,17 @@
 
 <p>🌻 Sobre mim: </p>
         <img align="right" border-radius="10px" alt="doug" src='https://i.picasion.com/pic92/f829aa90d70d8f2d1b7274064656910a.gif'>
-        <p>Tenho 24 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
+        <p>Tenho 26 anos, sou de Curitiba/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
         <p>🌱 Atualmente estou trabalhando como desenvolvedor .Net</p>
-        <p>🚀 Estudante de Engenharia de Software </p>
+        <p>🚀 Estudante de ADS </p>
         <p>📫 Meu email: dougfavero1@gmail.com</p>
   
 
 
-📊 Metas 2024:
+📊 Metas 2026:
 <ul>
-<li>🤝 Atuar como desenvolvedor. - ✅ </li>
-<li>📈 Conseguir experiência na área de programação. - ✅</li><br/>
+<li>🤝 Aumentar meu conhecimento como desenvolvedor. - ✅ </li>
+<li>📈 Conseguir mais experiência na área de programação. - ✅</li><br/>
 </ul>
 
 
